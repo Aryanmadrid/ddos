@@ -1,5 +1,4 @@
-# This is a simple DDoS simulation script created for educational purposes only.
-# Use this script responsibly and only in a controlled environment for learning.
+# basic dos
 import os
 import socket
 import threading
